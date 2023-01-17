@@ -4,6 +4,6 @@ echo "Hola Mundo! Hola CoE Arquitectura!";
 
 echo "test";
 
-echo "otro cambios";
+echo "aqui vamos a solcuioanr posibles bugs";
 
 ?>
